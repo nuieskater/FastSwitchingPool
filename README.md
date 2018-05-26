@@ -2,14 +2,14 @@
 Shell script to change local.conf with preset
 
 ## Getting Started 
-Download sw file and put it to your /opt/ethos/bin/ or wget to it.
+Download sw file and put it to /opt/ethos/bin/ or use this command.
 
 ```
 curl -o /opt/ethos/bin/sw https://raw.githubusercontent.com/nuieskater/FastSwitchingPool/master/sw
 ```
 # Config & Overclock
 
-Place your Telegram's token to sw file & custom your own overclock preset.
+Place your Telegram's token to sw file & Custom your own overclock preset.
 ```
 nano /opt/ethos/bin/sw
 
